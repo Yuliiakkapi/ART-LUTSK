@@ -716,15 +716,15 @@ a {
 
 /* Background images for each block */
 #block1 {
-  background: url("/assets/images/hero_screen_msumk.jpg") center/cover;
+  background: URL("../assets/images/hero_screen_msumk.jpg") center/cover;
 }
 
 #block2 {
-  background: url("/assets/images/crafr_card_spaces.jpg") center/cover;
+  background: URL("../assets/images/crafr_card_spaces.jpg") center/cover;
 }
 
 #block3 {
-  background: url("/assets/images/art1.jpg") center/cover;
+  background: URL("../assets/images/art1.jpg") center/cover;
 }
 
 .block-content {
