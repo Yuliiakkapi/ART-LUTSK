@@ -349,15 +349,15 @@ p {
 
 /* Background images for specific cards */
 #card1 {
-  background-image: url(/assets/images/msumk_space_card.jpg);
+  background-image: URL(../assets/images/msumk_space_card.jpg);
 }
 
 #card2 {
-  background-image: url(/assets/images/craft_card.jpg);
+  background-image: URL(../assets/images/craft_card.jpg);
 }
 
 #card3 {
-  background-image: url(/assets/images/art-gallery01.jpg);
+  background-image: URL(../assets/images/art-gallery01.jpg);
 }
 
 /*----------------------Newsleter-----------------------------*/
